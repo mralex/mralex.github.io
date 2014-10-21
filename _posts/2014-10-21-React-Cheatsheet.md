@@ -5,7 +5,9 @@ title: React Cheatsheet
 
 Anyone who uses React knows one thing, its documentation is pretty frustrating to parse at a high level. To help save my sanity, while working on a small React-based side project, and to save yours, here's a hopefully handy cheatsheet of the core API.
 
-Current as of version **0.11.2**:
+Current as of version **0.11.2**
+
+
 
 * [React](http://facebook.github.io/react/docs/top-level-api.html)
     * createClass(_Object_) -> _function_
