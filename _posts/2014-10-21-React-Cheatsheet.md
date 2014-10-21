@@ -17,6 +17,21 @@ Current as of version **0.11.2**:
     * isValidComponent(_Object_)
     * DOM
     * PropTypes
+        * array
+        * bool
+        * func
+        * number
+        * object
+        * string
+        * renderable
+        * component
+        * any
+        * _type_.isRequired
+        * instanceOf(_class_)
+        * oneOf(_[]_)
+        * arrayOf(_type_)
+        * objectOf(_type_)
+        * shape(_object_)
     * initializeTouchEvents(_Boolean_)
     * Children
 
